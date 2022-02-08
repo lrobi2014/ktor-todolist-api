@@ -22,3 +22,4 @@ Demo TodoList API with Ktor and Exposed
 - [ ] Containerize API  
 - [ ] Setup scripts for Testing w/ test image
 - [ ] Refactor DB env setup
+- [ ] Add token authentication
