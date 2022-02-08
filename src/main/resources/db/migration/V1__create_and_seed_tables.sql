@@ -31,7 +31,7 @@ CREATE TABLE tag_list(
     date_created BIGINT NOT NULL
 );
 
- Seed Statements
+-- Seed Statements
 INSERT INTO lists (name, archived, user_id, date_created)
 VALUES ('Grocery List 2022-02', false, 'laurenrobinson47', 1643976161),
        ('TODO: Monday, Feb 1 2022', false, 'laurenrobinson47', 1643976161),
